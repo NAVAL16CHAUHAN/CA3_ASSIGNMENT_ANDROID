@@ -2,7 +2,6 @@ package com.example.ca3_assignment
 
 
 import android.content.Intent
-import android.graphics.Color
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

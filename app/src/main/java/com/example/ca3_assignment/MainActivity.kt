@@ -8,12 +8,7 @@ import android.widget.*
 import androidx.activity.result.contract.ActivityResultContracts
 import android.app.Activity
 import android.content.Intent
-import android.content.pm.PackageManager
-import android.graphics.Color
 import android.net.Uri
-import android.os.Build
-import android.provider.MediaStore
-import android.widget.*
 import androidx.activity.result.ActivityResultCallback
 import androidx.activity.result.contract.ActivityResultContract
 import androidx.appcompat.app.AlertDialog
