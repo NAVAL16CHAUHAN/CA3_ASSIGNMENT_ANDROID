@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">CA3_Assignment</string>
+    <string name="Selected_Class">Selected Class:</string>
+    <string name="button">click button</string>
+    <string name="dialogTitle" translatable="false">Delete File</string>
+    <string name="dialogMessage" translatable="false">Deleting file may be harm your system</string>
+    <string-array name="Classes">
+        <item>I Class</item>
+        <item>II Class</item>
+        <item>III Class</item>
+        <item>IV Class</item>
+        <item>V Class</item>
+        <item>VI Class</item>
+        <item>VII Class</item>
+        <item>VIII Class</item>
+        <item>IX Class</item>
+        <item>X Class</item>
+        <item>XI Class</item>
+        <item>XII Class</item>
+    </string-array>
+</resources>
